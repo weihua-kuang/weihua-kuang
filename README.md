@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 Welcome to my Github page! 
 
-I am Kuang weihua, Undergraduate in Nankai University
+I am Kuang Weihua, Undergraduate in Nankai University
 
 Major in Software Engineering
 
-Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM and Dialect)
+Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM & Dialect)
  
 <img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="50%" height="auto" />
  
