@@ -13,36 +13,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 This is Weihua ！✨ 
+## Hi there, This is Weihua! 
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/waywooKwong)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
 [![Nankai University](https://img.shields.io/badge/Nankai%20Uni.%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:2211992@mail.nankai.edu.cn)
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=waywooKwong&show_icons=true&hide_border=true" width="40%" height="auto" />
+
 Welcome to my Github page! 
 
-I am Kuang Weihua, Undergraduate in Nankai University
+I am Weihua Kuang @waywooKwong, undergraduate in Nankai University. 
 
-Major in Software Engineering
+Major in Software Engineering.
 
-Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM & Dialect)
+Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM).
  
-<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="50%" height="auto" />
+### Things Currently Working on : 
+- AIOps research on **Software Change** area, auto change evaluation method "SCELM" coming out.
+- **MAS4SE**: Muilti-Agents System (MAS) Workflow built on LangGraph
+- [Weihua's Website: www.kuangweihua.com](https://www.kuangweihua.com) 🚀
  
-### 🔭 Things Currently Working on : 
-- AIOps Scientific Search in **Software Change** area
-- **MAS4SE**: Muilti-Agents System (MAS) Project in LangGraph
-- LLM application by Ollama
-- Chinese Dialect study in NLP
-- **NKcanteen**: Vue project
-- [Weihua's Website: www.kuangweihua.com](https://www.kuangweihua.com) 🚀 
- 
-### 🌱 Things Recently Interested in : 
+### Things Recently Interested in : 
 - [AIOps](https://nkcs.iops.ai/)(Artificial Intelligence for IT Operations)
 - LLM Development structure: LangChain & LangGraph
-- Muiti-Agents System 
-- Chinese Dialect
+- Muiti-Agents System
 
+<!--
+<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="50%" height="auto" />
+-->
+
+
+### More info refer to [Weihua's Website](https://www.kuangweihua.com).
+
+Feel free to email me.
+
+
+<!--
 ### :computer: Tech. Stack : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=waywooKwong&show_icons=true&hide_border=true" />
@@ -71,7 +79,4 @@ Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM & Dialect)
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <img width="40%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waywooKwong&hide_langs_below=1&layout=compact&hide_border=true" />
 </p>
-
-### 📫 More info refer to [Weihua's Website](https://www.kuangweihua.com).
-
-Contact me through email given heading.
+-->
