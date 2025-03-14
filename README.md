@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there, This is Weihua! 
- 
+
+
+<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="20%" height="auto" />
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/waywooKwong)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
 [![Nankai University](https://img.shields.io/badge/Nankai%20Uni.%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:2211992@mail.nankai.edu.cn)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=waywooKwong&show_icons=true&hide_border=true" width="40%" height="auto" />
 
 Welcome to my Github page! 
 
@@ -40,15 +42,14 @@ Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM).
 - LLM Development structure: LangChain & LangGraph
 - Muiti-Agents System
 
-<!--
-<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="50%" height="auto" />
--->
 
 
 ### More info refer to [Weihua's Website](https://www.kuangweihua.com).
 
 Feel free to email me.
 
+
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=waywooKwong&show_icons=true&hide_border=true" />
 
 <!--
 ### :computer: Tech. Stack : 
