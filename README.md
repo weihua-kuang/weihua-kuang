@@ -33,15 +33,14 @@ Major in Software Engineering.
 Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM).
  
 ### Things Currently Working on : 
-- AIOps research on **Software Change** area, auto change evaluation method "SCELM" coming out.
-- **MAS4SE**: Muilti-Agents System (MAS) Workflow built on LangGraph
-- [Weihua's Website: www.kuangweihua.com](https://www.kuangweihua.com) 🚀
+- Muilti-Agents System ([MAS](https://github.com/waywooKwong/LangGraph-MAS4SE)) Workflow built on LangGraph, ensembling with MCP & Browser use.
+- AIOps research focusing on **Software Change** of enterprise scenario, auto evaluation base on LLM-RAG method "SCELM" coming out.
+- My own website: [www.kuangweihua.com](https://www.kuangweihua.com) 
  
 ### Things Recently Interested in : 
-- [AIOps](https://nkcs.iops.ai/)(Artificial Intelligence for IT Operations)
-- LLM Development structure: LangChain & LangGraph
-- Muiti-Agents System
-
+- MCP (Model Context Protocol)
+- Browser use, AI assistant tool
+- Multi-Agents collaborations
 
 
 ### More info refer to [Weihua's Website](https://www.kuangweihua.com).
