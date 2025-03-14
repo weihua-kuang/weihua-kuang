@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, This is Weihua! 
+## Welcome, this is Weihua Kuang! 
 
 
 <img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="20%" height="auto" />
@@ -22,13 +22,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
 [![Nankai University](https://img.shields.io/badge/Nankai%20Uni.%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:2211992@mail.nankai.edu.cn)
 
-
-
-Welcome to my Github page! 
-
-I am Weihua Kuang @waywooKwong, undergraduate in Nankai University. 
-
-Major in Software Engineering.
+Undergraduate, major in Software Engineering, Nankai University. 
 
 Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM).
  
