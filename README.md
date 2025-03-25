@@ -28,8 +28,8 @@ Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM).
  
 ### Things Currently Working on : 
 - Muilti-Agents System ([MAS](https://github.com/waywooKwong/LangGraph-MAS4SE)) Workflow built on LangGraph, ensembling with MCP & Browser use.
-- AIOps research focusing on **Software Change** of enterprise scenario, auto evaluation base on LLM-RAG method "SCELM" coming out.
-- My own website: [www.kuangweihua.com](https://www.kuangweihua.com) 
+- AIOps research focusing on **Software Change** of enterprise scenario, auto evaluation base on LLM-RAG method "SCELM" coming out, paper accepted by FSE2025 Industry(CCF-A).
+- My own website: [www.kuangweihua.com](https://www.kuangweihua.com).
  
 ### Things Recently Interested in : 
 - MCP (Model Context Protocol)
