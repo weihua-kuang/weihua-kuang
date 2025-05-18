@@ -24,22 +24,24 @@ Here are some ideas to get you started:
 
 Undergraduate, major in Software Engineering, Nankai University. 
 
-Interest in **AIOps** and **NLP** (mainly Multi-Agents System in LLM).
+Interest in **AIOps** and **Agent** (mainly Multi-Agents System).
  
-### Things Currently Working on : 
-- Muilti-Agents System ([MAS](https://github.com/waywooKwong/LangGraph-MAS4SE)) Workflow built on LangGraph, ensembling with MCP & Browser use.
-- AIOps research focusing on **Software Change** of enterprise scenario, auto evaluation base on LLM-RAG method "SCELM" coming out, paper accepted by FSE2025 Industry(CCF-A).
-- My own website: [www.kuangweihua.com](https://www.kuangweihua.com).
+### Currently Working on : 
+- Muilti-Agents System ([MAS for SE](https://github.com/waywooKwong/LangGraph-MAS4SE)) Workflow reconstructed on CrewAI(former by LangGraph),
+
+  ensembling with Agent Protocals(MCP, A2A) & Browser use.
+- AIOps research focusing on **Software Change** in Enterprise Scenario,
+
+   auto evaluation base on LLM-RAG method "SCELM" coming out, [paper](https://nkcs.iops.ai/wp-content/uploads/2025/03/ChangeLLM.pdf) accepted by FSE2025 Industry（CCF-A）.
+- Personal Tech blog
  
-### Things Recently Interested in : 
-- MCP (Model Context Protocol)
-- Browser use, AI assistant tool
-- Multi-Agents collaborations
+### Recently Interested in : 
+- Multi-Agents Collaboration & Agent Protocals: MCP, A2A
+- AI operation tool: Browser Use
+- Reinforcement Learning: GRPO, KTO
 
 
 ### More info refer to [Weihua's Website](https://www.kuangweihua.com).
-
-Feel free to email me.
 
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=waywooKwong&show_icons=true&hide_border=true" />
