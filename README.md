@@ -27,7 +27,7 @@ Undergraduate, major in Software Engineering, Nankai University.
 Interest in **AIOps** and **Agent** (mainly Multi-Agents System).
  
 ### Currently Working on : 
-- Muilti-Agents System ([MAS for SE](https://github.com/waywooKwong/LangGraph-MAS4SE)) Workflow reconstructed on CrewAI(former by LangGraph),
+- Muilti-Agents System ([MAS for SE](https://github.com/waywooKwong/LangGraph-MAS4SE)) Workflow reconstructed by CrewAI(former by LangGraph),
 
   ensembling with Agent Protocals(MCP, A2A) & Browser use.
 - AIOps research focusing on **Software Change** in Enterprise Scenario,
