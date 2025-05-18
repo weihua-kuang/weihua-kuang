@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/waywooKwong)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
-[![Nankai University](https://img.shields.io/badge/Nankai%20Uni.%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:2211992@mail.nankai.edu.cn)
+[![Nankai University](https://img.shields.io/badge/School%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:weihua.kwong@mail.nankai.edu.cn)
 
 Undergraduate, major in Software Engineering, Nankai University. 
 
