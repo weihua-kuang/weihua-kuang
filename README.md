@@ -1,5 +1,5 @@
 <!--
-**waywooKwong/waywooKwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**weihua-kuang/weihua-kuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ## Welcome, this is Weihua Kuang! 
 
 
-<img align="right" alt="img" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/pic02.jpg" width="20%" height="auto" />
+<img align="right" alt="img" src="https://github.com/weihua-kuang/weihua-kuang/blob/main/assets/pic02.jpg" width="20%" height="auto" />
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/waywooKwong)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/weihua-kuang)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
 [![Nankai University](https://img.shields.io/badge/School%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:weihua.kwong@mail.nankai.edu.cn)
 
@@ -27,7 +27,7 @@ Undergraduate, major in Software Engineering, Nankai University.
 Interest in **AIOps** and **Agent** (mainly Multi-Agents System).
  
 ### Currently Working on : 
-- Muilti-Agents System ([MAS for SE](https://github.com/waywooKwong/LangGraph-MAS4SE)) Workflow reconstructed by CrewAI(former by LangGraph),
+- Muilti-Agents System ([MAS for SE](https://github.com/weihua-kuang/LangGraph-MAS4SE)) Workflow reconstructed by CrewAI(former by LangGraph),
 
   ensembling with Agent Protocals(MCP, A2A) & Browser use.
 - AIOps research focusing on **Software Change** in Enterprise Scenario,
@@ -44,12 +44,12 @@ Interest in **AIOps** and **Agent** (mainly Multi-Agents System).
 ### More info refer to [Weihua's Website](https://www.kuangweihua.com).
 
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=waywooKwong&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=weihua-kuang&show_icons=true&hide_border=true" />
 
 <!--
 ### :computer: Tech. Stack : 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=waywooKwong&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=weihua-kuang&show_icons=true&hide_border=true" />
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
@@ -58,7 +58,7 @@ Interest in **AIOps** and **Agent** (mainly Multi-Agents System).
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <br />
-<code><img width="100" height="45" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/langchain.svg"></code>
+<code><img width="100" height="45" src="https://github.com/weihua-kuang/weihua-kuang/blob/main/assets/langchain.svg"></code>
 <code><img width="100" height="45" src="https://github.com/cncf/landscape/blob/master/hosted_logos/ollama.svg"></code>
 <code><img width="100" height="45" src="https://github.com/gilbarbara/logos/blob/main/logos/qdrant.svg"></code>
 <br />
@@ -66,13 +66,13 @@ Interest in **AIOps** and **Agent** (mainly Multi-Agents System).
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
-<code><img width="100" height="45" src="https://github.com/waywooKwong/waywooKwong/blob/main/assets/cpp.svg"></code>
+<code><img width="100" height="45" src="https://github.com/weihua-kuang/weihua-kuang/blob/main/assets/cpp.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 <br />
 <code><img width="100" height="45" src="https://github.com/detain/svg-logos/blob/master/svg/l/latex.svg"></code>
 <code><img width="100" height="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/markdown.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<img width="40%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waywooKwong&hide_langs_below=1&layout=compact&hide_border=true" />
+<img width="40%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weihua-kuang&hide_langs_below=1&layout=compact&hide_border=true" />
 </p>
 -->
