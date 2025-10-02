@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 <img align="right" alt="img" src="https://github.com/weihua-kuang/weihua-kuang/blob/main/assets/pic02.jpg" width="20%" height="auto" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/weihua-kuang)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:w00wayKwong@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weihua-kuang@gmail.com)
 [![Nankai University](https://img.shields.io/badge/School%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:weihua.kwong@mail.nankai.edu.cn)
 
-Undergraduate, major in Software Engineering, Nankai University. 
+Incoming PhD in CASIA since 2026, supervised by Prof. [Guoqi Li](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7130910.html).
 
-Interest in **AIOps** and **Agent** (mainly Multi-Agents System).
+Current undergraduate in Nankai University, supervised by Prof. [Yongqian Sun](https://cs.nankai.edu.cn/info/1121/2581.htm). 
+
+Interested in **Agent** (mainly Multi-Agents System) / Linear Model / Brain-Inspired Compute.
  
 ### Currently Working on : 
 - Muilti-Agents System ([MAS for SE](https://github.com/weihua-kuang/LangGraph-MAS4SE)) Workflow reconstructed by CrewAI(former by LangGraph),
