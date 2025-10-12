@@ -29,21 +29,22 @@ Current undergraduate in Nankai University, supervised by Prof. [Yongqian Sun](h
 Interested in **Agent** (mainly Multi-Agents System) / Linear Model / Brain-Inspired Compute.
  
 ### Currently Working on : 
-- Muilti-Agents System ([MAS for SE](https://github.com/weihua-kuang/LangGraph-MAS4SE)) Workflow reconstructed by CrewAI(former by LangGraph),
+- RL on Pre-Train
 
-  ensembling with Agent Protocals(MCP, A2A) & Browser use.
+- Brain-inspired Memory Mechanism in Agent
+
+- Muilti-Agents System ([MAS for SE](https://github.com/weihua-kuang/LangGraph-MAS4SE)) Workflow,
+
+  ensembling with Agent Protocals & Browser use.
 - AIOps research focusing on **Software Change** in Enterprise Scenario,
 
-   auto evaluation base on LLM-RAG method "SCELM" coming out, [paper](https://nkcs.iops.ai/wp-content/uploads/2025/03/ChangeLLM.pdf) accepted by FSE2025 Industry（CCF-A）.
-- Personal Tech blog
+   one [paper](https://nkcs.iops.ai/wp-content/uploads/2025/03/ChangeLLM.pdf) accepted by FSE 2025 Industry（CCF-A）.
  
 ### Recently Interested in : 
-- Multi-Agents Collaboration & Agent Protocals: MCP, A2A
-- AI operation tool: Browser Use
-- Reinforcement Learning: GRPO, KTO
+- Linear Model & Inference Efficiency
+- Multi-Agents Collaboration & Agent Protocals & Tool use
 
-
-### More info refer to [Weihua's Website](https://www.kuangweihua.com).
+### More info refer to [Weihua's Website](https://weihua-kuang.github.io).
 
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=weihua-kuang&show_icons=true&hide_border=true" />
