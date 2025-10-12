@@ -38,7 +38,7 @@ Interested in **Agent** (mainly Multi-Agents System) / Linear Model / Brain-Insp
   ensembling with Agent Protocals & Browser use.
 - AIOps research focusing on **Software Change** in Enterprise Scenario,
 
-   one [paper](https://nkcs.iops.ai/wp-content/uploads/2025/03/ChangeLLM.pdf) accepted by FSE 2025 Industry（CCF-A）.
+   one [paper](https://dl.acm.org/doi/10.1145/3696630.3728561) accepted by FSE 2025 Industry（CCF-A）.
  
 ### Recently Interested in : 
 - Linear Model & Inference Efficiency
