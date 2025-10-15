@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:weihua-kuang@gmail.com)
 [![Nankai University](https://img.shields.io/badge/School%20Mail-7E0C6E?style=flat&logoColor=white)](mailto:weihua.kwong@mail.nankai.edu.cn)
 
-Incoming PhD in CASIA since 2026, supervised by Prof. [Guoqi Li](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7130910.html).
+Incoming PhD student in CASIA since 2026, supervised by Prof. [Guoqi Li](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7130910.html).
 
 Current undergraduate in Nankai University, supervised by Prof. [Yongqian Sun](https://cs.nankai.edu.cn/info/1121/2581.htm). 
 
